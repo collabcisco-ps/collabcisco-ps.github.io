@@ -370,10 +370,10 @@
         },
         {
           "nav": {
-            "label": "Clientes",
+            "label": "Estudiantes",
             "icon": "https://collabcisco.github.io/collabmex/intro/iconcustomer.png",
             "iconType": "other",
-            "navigateTo": "clientes",
+            "navigateTo": "estudiantes",
             "align": "top"
           },
           "page": {
@@ -388,7 +388,7 @@
                   "src": "https://collabcisco-ps.github.io/publicsector/educacion/estudiantes.html"
                 },
                   "wrapper": {
-                                    "title": "Clientes",
+                                    "title": "Estudiantes",
                                     "maximizeAreaName": "app-maximize-area"
                                 }
               }
