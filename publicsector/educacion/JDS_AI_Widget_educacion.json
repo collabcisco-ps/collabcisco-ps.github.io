@@ -1,7 +1,7 @@
 {
   "agent": {
     "version": "0.1.0",
-    "appTitle": "Webex Contact Center - Ibero",
+    "appTitle": "Webex Contact Center - INE",
     "logo": "https://collabcisco-ps.github.io/publicsector/educacion/logo.png",
     "stopNavigateOnAcceptTask": false,
     "dragDropEnabled": true,
